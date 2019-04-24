@@ -1,0 +1,4 @@
+tests/.idea
+tests/out
+tests/build
+tests/target
